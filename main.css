@@ -1,0 +1,82 @@
+body{
+  background-image: url(pic4.jpg);
+  text-align: center;
+}
+
+.col{
+    width: 25%;
+    height: 400px;
+    background: white;
+    display: inline-block;
+    margin: 50px 6px;
+}
+.price-box{
+    width: 100%;
+    height: 200px;
+    background: navy;
+    color: white;
+}
+
+.plan-text{
+    text-align: center;
+    padding: 18px 0px;
+    font-size: 20px;
+ }
+
+.price-text*{
+    display: inline-block;
+}
+
+.price-text{
+    display: inline-block;   
+    
+}
+
+.doller{
+    display: inline-block;
+    vertical-align: top;
+    padding-top: 8px;
+   
+   
+}
+
+.amount{
+    font-size: 50px;
+     display: inline-block;
+}
+
+.per-month{  
+    display: inline-block;
+    font-size: 6px;
+        
+}
+
+.btn-box{
+    text-align: center;
+    border: 2px solid white;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 6px 0px;
+    border-radius: 6px;
+    margin-top: 20px;
+    
+}
+
+i{
+    display: inline-block;
+    color: gainsboro;
+    margin-top: 15px;
+    
+}
+
+hr{
+    width: 150px;
+    color: gainsboro;
+}
+
+
+
+
+
+
